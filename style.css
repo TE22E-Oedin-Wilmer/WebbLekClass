@@ -1,10 +1,13 @@
 .rubrik{
-border: 2px solid black;
+font-style: oblique;
+text-align: center;   
+border: 2px solid red;
+border-width: 10px;
 padding: 20px;
 margin-top: 50px;
 margin-left: 10%;
 margin-right: 10%;
-width: 300px;
+width: 250px;
 }
 
 #HA {
