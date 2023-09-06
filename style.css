@@ -1,0 +1,18 @@
+.rubrik{
+border: 2px solid black;
+padding: 20px;
+margin-top: 50px;
+margin-left: 10%;
+margin-right: 10%;
+width: 300px;
+}
+
+#HA {
+    background-color: lightblue;
+    text-align: center;
+    }
+    
+    #HB {
+    background-color: tomato;
+    text-align: right;
+    }
